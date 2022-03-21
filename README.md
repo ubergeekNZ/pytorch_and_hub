@@ -1,4 +1,4 @@
-# Running pytorch MNIST example using activeloop.ai hub dataloader
+# Using Activeloop Hub as a dataloader with Tensorboard & Docker to train a model in PyTorch
 
 To start the docker enviroment, type
 
