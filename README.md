@@ -1,4 +1,4 @@
-# Running pytorch Mnist example using activeloop.ai hub dataloader
+# Running pytorch MNIST example using activeloop.ai hub dataloader
 
 To start the docker enviroment, type
 
