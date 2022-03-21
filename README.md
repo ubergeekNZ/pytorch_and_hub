@@ -25,4 +25,8 @@ Start jupyter notebook by typing.
 jupyter notebook
 ```
 
+Open your browser and type localhost:8888?token=<id> as output in the bash terminal. To start the jupyter notebook, click on train_mnist_using_hub.ipynb.
+
 Follow the instructions in the notebook.
+
+To view tensorboard, type localhost:6006.
